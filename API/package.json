@@ -1,0 +1,17 @@
+{
+  "name": "api-node",
+  "version": "1.0.0",
+  "description": "Api que faz a conexão com o Banco de dados e disponibiiza os end-ponts",
+  "main": "apiNode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Fernando Castro Ramos",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
